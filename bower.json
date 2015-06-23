@@ -10,10 +10,10 @@
     "components"
   ],
   "dependencies": {
-    "select2": "^3.3.2"
+    "select2": "*"
   },
   "devDependencies": {
-    "bootstrap": "~3.3.0",
+    "bootstrap": "*",
     "bootstrap-sass-official": "3.3.3",
     "respond": "~1.4.2"
   }
